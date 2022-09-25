@@ -20,6 +20,9 @@ In this project, let's build a **Google Search Suggestions** app by applying the
 
 ### Set Up Instructions
 
+###Check out the application link
+https://tarakGoogle.ccbp.tech
+
 <details>
 <summary>Click to view</summary>
 
